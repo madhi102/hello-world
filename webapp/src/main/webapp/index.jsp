@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Congrats, deploy job done again</h1>
+   <h1> Congrats, again success</h1>
 
   
 </form>
