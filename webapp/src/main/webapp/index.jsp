@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for ITest DevOps Learning</h1>
+    <h1>New user Register for DevOps Learning_Madhi</h1>
     <p>Please fill in this form to create an account</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> QWERTYUIOP</h1>
+   <h1> Deploy job done</h1>
 
   
 </form>
